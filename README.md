@@ -37,6 +37,9 @@ This is just an example of how to give instructions using README file.
 _sample installation code_
 ```code
 cd folderName
+```
+
+```code
 code install
 ```
 
