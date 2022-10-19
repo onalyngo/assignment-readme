@@ -1,18 +1,68 @@
 ![driver logo](img/drive-logo.jpg)
-
-# Welcome to StackEdit!
-
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+_Author: **Onalyn Go**_
 
 
-# Files
+# LTO Traffic Violation System
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+This is a simple project of **LTO Traffic Violation System**.
 
-## Create files and folders
+## Description
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+Hi! Welcome to the README file of my simple humble project called **LTO Traffic Violation System**.
 
-## Switch to another file
+This project is composed of the following features:
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+- list of traffic violations
+- list of created drivers
+- list of records of traffic violation
+- list of pending records and paid records
+
+> **Note:** That you may find it immediately on the dashboard.
+
+## Getting Started
+
+This is just an example of how to give instructions using README file.
+
+### Sample Dependencies
+
+- [Windows 11](https://www.microsoft.com/software-download/windows11)
+- [MacOS](https://www.apple.com/ph/macos/monterey/)
+ 
+### Installation
+
+- You may just clone the repository to be able to install it locally.
+- You may download also here in [Google](https://www.google.com) the other programs that needed to properly work it.
+
+_sample installation code_
+```code
+cd folderName
+code install
+```
+
+## Functionality of the program
+
+![dashboard](img/lto-project-dashboard.jpg)
+This is the image of the dashboard of the project. As you can see, there's a summary of each functionality of the program, such as:
+
+- Today's Record of Traffic Violations
+- Total Driver's Listed
+- Total Traffic Violations
+- Today's New Driver Listed
+- Total Pending Record
+- Total Paid Record
+
+![driver's list](img/view-drivers-list.jpg)
+
+In here, you can view the list of all the created drivers. For each item, you can edit, view each details, and delete. You can also **Add New Driver**.
+
+![record's list ](img/view-records-list.jpg)
+
+In here, you can view the list of all the records of violations or offense. For each item, you can edit, view each details, and delete. You can also **Create New Record**.
+
+![violation list](img/view-violation-list.jpg)
+
+In here, you can view the list of all the violations created. For each item, you can edit, view each details, and delete. You can also **Create New Violation**.
+
+## Future Improvement
+
+> There's a lot to improve here.
