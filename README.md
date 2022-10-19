@@ -1,4 +1,5 @@
 ![driver logo](img/drive-logo.jpg)
+
 _Author: **Onalyn Go**_
 
 
@@ -41,7 +42,12 @@ code install
 
 ## Functionality of the program
 
+### Dashboard
+
+
 ![dashboard](img/lto-project-dashboard.jpg)
+
+
 This is the image of the dashboard of the project. As you can see, there's a summary of each functionality of the program, such as:
 
 - Today's Record of Traffic Violations
@@ -51,17 +57,32 @@ This is the image of the dashboard of the project. As you can see, there's a sum
 - Total Pending Record
 - Total Paid Record
 
+
+### Driver's List
+
+
 ![driver's list](img/view-drivers-list.jpg)
+
 
 In here, you can view the list of all the created drivers. For each item, you can edit, view each details, and delete. You can also **Add New Driver**.
 
+
+### Record's List
+
+
 ![record's list ](img/view-records-list.jpg)
+
 
 In here, you can view the list of all the records of violations or offense. For each item, you can edit, view each details, and delete. You can also **Create New Record**.
 
+### Violation's List
+
+
 ![violation list](img/view-violation-list.jpg)
 
+
 In here, you can view the list of all the violations created. For each item, you can edit, view each details, and delete. You can also **Create New Violation**.
+
 
 ## Future Improvement
 
